@@ -47,3 +47,8 @@
 - **NIPS Tutorial -- 2016**
   - Variational Inference: Foundations and Modern Methods. David Blei, Shakir Mohamed, Rajesh Ranganath
   - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6199)
+
+- **DSC-Nets -- NIPS 17**
+  - Deep Subspace Clustering Networks
+  - [[Paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)
+  - [[TensorFlow]](https://github.com/panji1990/Deep-subspace-clustering-networks) 
