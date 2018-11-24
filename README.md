@@ -18,9 +18,17 @@
   - Auto-Encoding Variational Bayes.   Diederik P. Kingma et al.
   - [[Paper]](https://arxiv.org/abs/1312.6114)
 
+- **SSLDGM --NIPS 14**
+  - Semi-Supervised Learning with Deep Generative Models.   Diederik P. Kingma et al.
+  - [[Paper]](https://arxiv.org/abs/1406.5298)
+
+- **--ICML 14**
+  - Stochastic Backpropagation and Approximate Inference in Deep Generative Models.   Danilo J. Rezende et al.
+  - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
+
 - **CVAE --NIPS 15**
   - Learning Structured Output Representation using Deep Conditional Generative Models.   Kihyuk Sohn et al.
-  - [[Paper]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
+  - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
 
 - **VAE Tutorial --Arxiv 16**
   - Tutorial on Variational Autoencoders.   Carl Doersch.
