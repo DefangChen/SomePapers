@@ -26,6 +26,10 @@
   - Stochastic Backpropagation and Approximate Inference in Deep Generative Models.   Danilo J. Rezende et al.
   - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
 
+- **--NIPS 14**
+  - Generative Adversarial Nets.   Ian J. Goodfellow et al.
+  - [[Paper]](https://arxiv.org/abs/1406.2661)
+
 - **CVAE --NIPS 15**
   - Learning Structured Output Representation using Deep Conditional Generative Models.   Kihyuk Sohn et al.
   - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
