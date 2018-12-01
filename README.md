@@ -41,6 +41,10 @@
 - **VAE for CF --WWW 18**
   - Variational Autoencoders for Collaborative Filtering.   Dawen Liang et al.
   - [[Paper]](https://arxiv.org/abs/1802.05814)
+  
+- **WAE  --ICLR 18**
+  - Wasserstein Auto-Encoders.   Ilya Tolstikhin et al.
+  - [[Paper]](https://arxiv.org/abs/1711.01558)
 
 ## Embedding 
 
