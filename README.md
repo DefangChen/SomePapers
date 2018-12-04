@@ -1,68 +1,77 @@
 # Already Read
 
-## Variational Inference
+## Tutorial & Review & Lecture Notes 
 
-- **VI Review --JASA 17**
-  - Variational Inference: A Review for Statisticians.   David M.Blei et al. 
+- **JASA 17 -- David M.Blei et al.**
+  - Variational Inference: A Review for Statisticians.    
   - [[Paper]](https://arxiv.org/abs/1601.00670)
 
-- **VI Lecture Notes**
-  - Variational Inference Notes.   David M. Blei.
+- **VI Lecture Notes -- David M. Blei.**
+  - Variational Inference Notes.   
   - [[Paper]](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 
-- **SVI --JMLR 13**
-  - Stochastic Variational Inference.   Matthew D. Hoffman et al.
-  - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+- **NIPS 16 Tutorial -- David Blei et al.**
+  - Variational Inference: Foundations and Modern Methods.   
+  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6199)
 
-- **VAE --ICLR 14**
-  - Auto-Encoding Variational Bayes.   Diederik P. Kingma et al.
-  - [[Paper]](https://arxiv.org/abs/1312.6114)
+- **NIPS 16 Tutorial -- Ian Goodfellow et al.**
+  - Generative Adversarial Networks
+  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6202)
 
-- **SSLDGM --NIPS 14**
-  - Semi-Supervised Learning with Deep Generative Models.   Diederik P. Kingma et al.
-  - [[Paper]](https://arxiv.org/abs/1406.5298)
-
-- **--ICML 14**
-  - Stochastic Backpropagation and Approximate Inference in Deep Generative Models.   Danilo J. Rezende et al.
-  - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
-
-- **--NIPS 14**
-  - Generative Adversarial Nets.   Ian J. Goodfellow et al.
-  - [[Paper]](https://arxiv.org/abs/1406.2661)
-
-- **CVAE --NIPS 15**
-  - Learning Structured Output Representation using Deep Conditional Generative Models.   Kihyuk Sohn et al.
-  - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
-
-- **VAE Tutorial --Arxiv 16**
-  - Tutorial on Variational Autoencoders.   Carl Doersch.
+- **Arxiv 16 -- Carl Doersch.**
+  - Tutorial on Variational Autoencoders.   
   - [[Paper]](https://arxiv.org/abs/1606.05908)
 
-- **VAE for CF --WWW 18**
-  - Variational Autoencoders for Collaborative Filtering.   Dawen Liang et al.
+## Variational Inference
+
+- **JMLR 13 -- Matthew D. Hoffman et al.**
+  - (SVI) Stochastic Variational Inference.   
+  - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+
+- **ICLR 14 --Diederik P. Kingma et al.**
+  - (VAE) Auto-Encoding Variational Bayes.   
+  - [[Paper]](https://arxiv.org/abs/1312.6114)
+
+- **ICML 14 -- Danilo J. Rezende et al.**
+  - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
+  - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
+
+- **NIPS 14 -- Ian J. Goodfellow et al.**
+  - (GAN) Generative Adversarial Nets.   
+  - [[Paper]](https://arxiv.org/abs/1406.2661)
+
+- **NIPS 15 -- Kihyuk Sohn et al.**
+  - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
+  - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
+
+- **WWW 18 -- Dawen Liang et al.**
+  - Variational Autoencoders for Collaborative Filtering.   
   - [[Paper]](https://arxiv.org/abs/1802.05814)
   
-- **WAE  --ICLR 18**
-  - Wasserstein Auto-Encoders.   Ilya Tolstikhin et al.
-  - [[Paper]](https://arxiv.org/abs/1711.01558)
-
 ## Embedding 
 
-- **DCN --ICML 17**
-  - Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   Bo Yang et al.
+- **ICML 17 -- Bo Yang et al.**
+  - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
   - [[Paper]](https://arxiv.org/abs/1610.04794)
 
 ## Others
 
-- **D-CNNs --TGRS 18**
-  - When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs.   Gong Cheng et al.
+- **ICDM 18 -- jiawei Chen et al.**
+  - (SPMF-MNAR) Social Recommendation with Missing Not at Random Data.
+  
+- **TGRS 18 -- Gong Cheng et al.**
+  - (D-CNNs) When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs.   
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8252784)
   
 # To Read
 
-- **NIPS Tutorial -- 2016**
-  - Variational Inference: Foundations and Modern Methods.   David Blei et al.
-  - [[Slides & Video]](https://nips.cc/Conferences/2016/Schedule?showEvent=6199)
+- **ICLR 18 -- Ilya Tolstikhin et al.**
+  - Wasserstein Auto-Encoders.   
+  - [[Paper]](https://arxiv.org/abs/1711.01558)
+
+- **NIPS 14 -- Diederik P. Kingma et al.**
+  - Semi-Supervised Learning with Deep Generative Models.   
+  - [[Paper]](https://arxiv.org/abs/1406.5298)
 
 - **DSC-Nets -- NIPS 17**
   - Deep Subspace Clustering Networks.   Pan ji et al.
