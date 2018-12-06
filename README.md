@@ -73,12 +73,16 @@
   - Semi-Supervised Learning with Deep Generative Models.   
   - [[Paper]](https://arxiv.org/abs/1406.5298)
 
-- **DSC-Nets -- NIPS 17**
-  - Deep Subspace Clustering Networks.   Pan ji et al.
+- **NIPS 17 -- Pan ji et al.**
+  - (DSC-Nets) Deep Subspace Clustering Networks.   
   - [[Paper]](http://papers.nips.cc/paper/6608-deep-subspace-clustering-networks.pdf)
   - [[TensorFlow]](https://github.com/panji1990/Deep-subspace-clustering-networks) 
  
  # Useful Resources
- - **PRML**
+ - **Hung-yi Lee**
+  - Machine Learning and having it deep and structured (2018,Spring)
+  - [[Notes & Video]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
+
+- **PRML**
   - Pattern Recognition and Machine Learning.   Christopher Bishop.
   - [[Book & Support]](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
