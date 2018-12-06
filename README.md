@@ -79,7 +79,8 @@
   - [[TensorFlow]](https://github.com/panji1990/Deep-subspace-clustering-networks) 
  
  # Useful Resources
- - **Hung-yi Lee**
+ 
+- **Hung-yi Lee**
   - Machine Learning and having it deep and structured (2018,Spring)
   - [[Notes & Video]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
