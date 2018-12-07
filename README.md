@@ -22,7 +22,7 @@
   - Tutorial on Variational Autoencoders.   
   - [[Paper]](https://arxiv.org/abs/1606.05908)
 
-## Variational Inference
+## Variational Inference & Deep Generative Model
 
 - **JMLR 13 -- Matthew D. Hoffman et al.**
   - (SVI) Stochastic Variational Inference.   
@@ -36,10 +36,6 @@
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
   - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
 
-- **NIPS 14 -- Ian J. Goodfellow et al.**
-  - (GAN) Generative Adversarial Nets.   
-  - [[Paper]](https://arxiv.org/abs/1406.2661)
-
 - **NIPS 15 -- Kihyuk Sohn et al.**
   - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
   - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
@@ -47,7 +43,19 @@
 - **WWW 18 -- Dawen Liang et al.**
   - Variational Autoencoders for Collaborative Filtering.   
   - [[Paper]](https://arxiv.org/abs/1802.05814)
-  
+
+- **NIPS 14 -- Ian J. Goodfellow et al.**
+  - (GAN) Generative Adversarial Nets.   
+  - [[Paper]](https://arxiv.org/abs/1406.2661)
+
+- **ICLR 17 oral -- Martin Arjovsky et al.**
+  - (WGAN-1) Towards Principled Methods for Training Generative Adversarial Networks.   
+  - [[Paper]](https://arxiv.org/abs/1701.04862)
+
+- **Arxiv 17 -- Martin Arjovsky et al.**
+  - (WGAN-2) Wasserstein GAN.   
+  - [[Paper]](https://arxiv.org/abs/1701.07875)
+
 ## Embedding 
 
 - **ICML 17 -- Bo Yang et al.**
