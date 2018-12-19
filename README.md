@@ -52,7 +52,7 @@
   - (WGAN-1) Towards Principled Methods for Training Generative Adversarial Networks.   
   - [[Paper]](https://arxiv.org/abs/1701.04862)
 
-- **Arxiv 17 -- Martin Arjovsky et al.**
+- **ICML 17 -- Martin Arjovsky et al.**
   - (WGAN-2) Wasserstein GAN.   
   - [[Paper]](https://arxiv.org/abs/1701.07875)
 
@@ -64,12 +64,16 @@
 
 ## Others
 
-- **ICDM 18 -- jiawei Chen et al.**
-  - (SPMF-MNAR) Social Recommendation with Missing Not at Random Data.
+- **ICDE 18 -- Qihao Shi et al.**
+  - (AIB) Adaptive Influence Blocking: Minimizing the Negative Spread by Observation-based Policies.
   
+- **ICDM 18 -- Jiawei Chen et al.**
+  - (SPMF-MNAR) Social Recommendation with Missing Not at Random Data.
+
 - **TGRS 18 -- Gong Cheng et al.**
   - (D-CNNs) When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs.   
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8252784)
+  
   
 # To Read
 
