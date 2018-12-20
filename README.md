@@ -56,11 +56,19 @@
   - (WGAN-2) Wasserstein GAN.   
   - [[Paper]](https://arxiv.org/abs/1701.07875)
 
+- **SIGIR 17 Best Paper-- Jun Wang et al.**
+  - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
+  - [[Paper]](https://arxiv.org/abs/1705.10513)
+  
 ## Embedding 
 
 - **ICML 17 -- Bo Yang et al.**
   - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
   - [[Paper]](https://arxiv.org/abs/1610.04794)
+
+- **AAAI 18 -- Hongwei Wang et al.**
+  - (GraphGAN) GraphGAN: Graph Representation Learning with Generative Adversarial Nets.   
+  - [[Paper]](https://arxiv.org/abs/1711.08267)
 
 ## Others
 
