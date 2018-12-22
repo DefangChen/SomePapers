@@ -22,6 +22,10 @@
   - Tutorial on Variational Autoencoders.   
   - [[Paper]](https://arxiv.org/abs/1606.05908)
 
+- **IJCAI 18 Tutorial -- Stefano Ermon et al.**
+  - Tutorial on Deep Generative Models
+  - [[Slides]](https://ermongroup.github.io/generative-models/)
+
 ## Variational Inference & Deep Generative Model
 
 - **JMLR 13 -- Matthew D. Hoffman et al.**
@@ -56,6 +60,10 @@
   - (WGAN-2) Wasserstein GAN.   
   - [[Paper]](https://arxiv.org/abs/1701.07875)
 
+- **ICLR 16 -- Jost Tobias Springenberg.**
+  - (CatGAN) Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.
+  - [[Paper]](https://arxiv.org/abs/1511.06390)
+  
 - **SIGIR 17 Best Paper-- Jun Wang et al.**
   - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
   - [[Paper]](https://arxiv.org/abs/1705.10513)
