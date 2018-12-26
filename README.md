@@ -40,7 +40,7 @@
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
   - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
   
-  - **NIPS 14 -- Diederik P. Kingma et al.**
+- **NIPS 14 -- Diederik P. Kingma et al.**
   - Semi-Supervised Learning with Deep Generative Models.   
   - [[Paper]](https://arxiv.org/abs/1406.5298)
 
