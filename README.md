@@ -134,9 +134,13 @@
  # Useful Resources
  
 - **Hung-yi Lee**
-  - Machine Learning and having it deep and structured (2018,Spring)
+  - Machine Learning and having it deep and structured (2018, Spring, National Taiwan University)
   - [[Notes & Video]](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html)
 
+- **Stefano Ermon, Aditya Grover**
+  - CS 236: Deep Generative Models (2018, Fall, Stanford University)
+  - [[Notes]](https://deepgenerativemodels.github.io/)
+  
 - **PRML**
   - Pattern Recognition and Machine Learning.   Christopher Bishop.
   - [[Book & Support]](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
