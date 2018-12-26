@@ -39,6 +39,10 @@
 - **ICML 14 -- Danilo J. Rezende et al.**
   - (DLGM) Stochastic Backpropagation and Approximate Inference in Deep Generative Models.  
   - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
+  
+  - **NIPS 14 -- Diederik P. Kingma et al.**
+  - Semi-Supervised Learning with Deep Generative Models.   
+  - [[Paper]](https://arxiv.org/abs/1406.5298)
 
 - **NIPS 15 -- Kihyuk Sohn et al.**
   - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
@@ -67,12 +71,28 @@
 - **SIGIR 17 Best Paper-- Jun Wang et al.**
   - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
   - [[Paper]](https://arxiv.org/abs/1705.10513)
+
+- **AAAI 19 -- Sudipto Mukherjee et al.**
+  - (ClusterGAN) ClusterGAN: Latent Space Clustering in Generative Adversarial Networks.
+  - [[Paper]](https://arxiv.org/abs/1809.03627)
   
+- **NIPS 18 -- Yucen Luo et al.**
+  - Semi-crowdsourced Clustering with Deep Generative Models.
+  - [[Paper]](https://arxiv.org/abs/1810.11971?context=cs)
+
+- **ICLR 18 -- Zhiting Hu et al.**
+  - On Unifying Deep Generative Models.
+  - [[Paper]](https://arxiv.org/abs/1706.00550)
+
 ## Embedding 
 
 - **ICML 17 -- Bo Yang et al.**
   - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
   - [[Paper]](https://arxiv.org/abs/1610.04794)
+
+- **IJCAI 17 -- Zhuxi Jiang et al.**
+  - (VaDE) Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering.
+  - [[Paper]](https://arxiv.org/abs/1611.05148)
 
 - **AAAI 18 -- Hongwei Wang et al.**
   - (GraphGAN) GraphGAN: Graph Representation Learning with Generative Adversarial Nets.   
@@ -93,13 +113,18 @@
   
 # To Read
 
+- **NIPS 16 -- Sebastian Nowozin et al.**
+  - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
+  - [[Paper]](https://arxiv.org/abs/1606.00709)
+
+- **NIPS 16 -- Xi Chen et al.**
+  - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
+  - [[Paper]](https://arxiv.org/abs/1606.03657v1)
+
 - **ICLR 18 -- Ilya Tolstikhin et al.**
   - Wasserstein Auto-Encoders.   
   - [[Paper]](https://arxiv.org/abs/1711.01558)
 
-- **NIPS 14 -- Diederik P. Kingma et al.**
-  - Semi-Supervised Learning with Deep Generative Models.   
-  - [[Paper]](https://arxiv.org/abs/1406.5298)
 
 - **NIPS 17 -- Pan ji et al.**
   - (DSC-Nets) Deep Subspace Clustering Networks.   
