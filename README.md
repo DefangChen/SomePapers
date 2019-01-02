@@ -5,10 +5,7 @@
 - **JASA 17 -- David M.Blei et al.**
   - Variational Inference: A Review for Statisticians.    
   - [[Paper]](https://arxiv.org/abs/1601.00670)
-
-- **VI Lecture Notes -- David M. Blei.**
-  - Variational Inference Notes.   
-  - [[Paper]](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
+  - [[Notes]](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf)
 
 - **NIPS 16 Tutorial -- David Blei et al.**
   - Variational Inference: Foundations and Modern Methods.   
@@ -25,12 +22,12 @@
 - **IJCAI 18 Tutorial -- Stefano Ermon et al.**
   - Tutorial on Deep Generative Models
   - [[Slides]](https://ermongroup.github.io/generative-models/)
+  
+  - **UAI 17 Tutorial -- Stefano Ermon et al.**
+  - Deep Generative Models
+  - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
 
-## Variational Inference & Deep Generative Model
-
-- **JMLR 13 -- Matthew D. Hoffman et al.**
-  - (SVI) Stochastic Variational Inference.   
-  - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+## Deep Generative Model
 
 - **ICLR 14 --Diederik P. Kingma et al.**
   - (VAE) Auto-Encoding Variational Bayes.   
@@ -41,16 +38,12 @@
   - [[Paper]](https://arxiv.org/pdf/1401.4082v3.pdf)
   
 - **NIPS 14 -- Diederik P. Kingma et al.**
-  - Semi-Supervised Learning with Deep Generative Models.   
+  - (SSL-VAE) Semi-Supervised Learning with Deep Generative Models.   
   - [[Paper]](https://arxiv.org/abs/1406.5298)
 
 - **NIPS 15 -- Kihyuk Sohn et al.**
   - (CVAE) Learning Structured Output Representation using Deep Conditional Generative Models.   
   - [[Paper & Supplement]](http://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional)
-
-- **WWW 18 -- Dawen Liang et al.**
-  - Variational Autoencoders for Collaborative Filtering.   
-  - [[Paper]](https://arxiv.org/abs/1802.05814)
 
 - **NIPS 14 -- Ian J. Goodfellow et al.**
   - (GAN) Generative Adversarial Nets.   
@@ -68,27 +61,23 @@
   - (CatGAN) Unsupervised and Semi-supervised Learning with Categorical Generative Adversarial Networks.
   - [[Paper]](https://arxiv.org/abs/1511.06390)
   
-- **SIGIR 17 Best Paper-- Jun Wang et al.**
-  - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
-  - [[Paper]](https://arxiv.org/abs/1705.10513)
-
-- **AAAI 19 -- Sudipto Mukherjee et al.**
-  - (ClusterGAN) ClusterGAN: Latent Space Clustering in Generative Adversarial Networks.
-  - [[Paper]](https://arxiv.org/abs/1809.03627)
-  
-- **NIPS 18 -- Yucen Luo et al.**
-  - Semi-crowdsourced Clustering with Deep Generative Models.
-  - [[Paper]](https://arxiv.org/abs/1810.11971?context=cs)
+- **NIPS 16 -- Sebastian Nowozin et al.**
+  - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
+  - [[Paper]](https://arxiv.org/abs/1606.00709)
 
 - **ICLR 18 -- Zhiting Hu et al.**
   - On Unifying Deep Generative Models.
   - [[Paper]](https://arxiv.org/abs/1706.00550)
 
-## Embedding 
+## Deep Generative Model Application
 
-- **ICML 17 -- Bo Yang et al.**
-  - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
-  - [[Paper]](https://arxiv.org/abs/1610.04794)
+- **SIGIR 17 Best Paper-- Jun Wang et al.**
+  - (IRGAN)IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models.   
+  - [[Paper]](https://arxiv.org/abs/1705.10513)
+
+- **WWW 18 -- Dawen Liang et al.**
+  - Variational Autoencoders for Collaborative Filtering.   
+  - [[Paper]](https://arxiv.org/abs/1802.05814)
 
 - **IJCAI 17 -- Zhuxi Jiang et al.**
   - (VaDE) Variational Deep Embedding: An Unsupervised and Generative Approach to Clustering.
@@ -98,7 +87,25 @@
   - (GraphGAN) GraphGAN: Graph Representation Learning with Generative Adversarial Nets.   
   - [[Paper]](https://arxiv.org/abs/1711.08267)
 
+- **AAAI 19 -- Sudipto Mukherjee et al.**
+  - (ClusterGAN) ClusterGAN: Latent Space Clustering in Generative Adversarial Networks.
+  - [[Paper]](https://arxiv.org/abs/1809.03627)
+  
+- **NIPS 18 -- Yucen Luo et al.**
+  - Semi-crowdsourced Clustering with Deep Generative Models.
+  - [[Paper]](https://arxiv.org/abs/1810.11971?context=cs)
+  
+## Variational Inference 
+
+- **JMLR 13 -- Matthew D. Hoffman et al.**
+  - (SVI) Stochastic Variational Inference.   
+  - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+
 ## Others
+
+- **ICML 17 -- Bo Yang et al.**
+  - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
+  - [[Paper]](https://arxiv.org/abs/1610.04794)
 
 - **ICDE 18 -- Qihao Shi et al.**
   - (AIB) Adaptive Influence Blocking: Minimizing the Negative Spread by Observation-based Policies.
@@ -109,13 +116,8 @@
 - **TGRS 18 -- Gong Cheng et al.**
   - (D-CNNs) When Deep Learning Meets Metric Learning: Remote Sensing Image Scene Classification via Learning Discriminative CNNs.   
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8252784)
-  
-  
+    
 # To Read
-
-- **NIPS 16 -- Sebastian Nowozin et al.**
-  - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
-  - [[Paper]](https://arxiv.org/abs/1606.00709)
 
 - **NIPS 16 -- Xi Chen et al.**
   - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
