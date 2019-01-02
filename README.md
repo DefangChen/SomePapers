@@ -23,7 +23,7 @@
   - Tutorial on Deep Generative Models
   - [[Slides]](https://ermongroup.github.io/generative-models/)
   
-  - **UAI 17 Tutorial -- Stefano Ermon et al.**
+- **UAI 17 Tutorial -- Stefano Ermon et al.**
   - Deep Generative Models
   - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
 
