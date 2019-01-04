@@ -100,12 +100,11 @@
 - **JMLR 13 -- Matthew D. Hoffman et al.**
   - (SVI) Stochastic Variational Inference.   
   - [[Paper]](http://www.jmlr.org/papers/volume14/hoffman13a/hoffman13a.pdf)
+  
+## Deep Clustering
+
 
 ## Others
-
-- **ICML 17 -- Bo Yang et al.**
-  - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
-  - [[Paper]](https://arxiv.org/abs/1610.04794)
 
 - **ICDE 18 -- Qihao Shi et al.**
   - (AIB) Adaptive Influence Blocking: Minimizing the Negative Spread by Observation-based Policies.
@@ -118,6 +117,34 @@
   - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8252784)
     
 # To Read
+
+- **ICML 16 -- Junyuan Xie et al.**
+  - (DEC) Unsupervised Deep Embedding for Clustering Analysis.
+  - [[Paper]](http://proceedings.mlr.press/v48/xieb16.pdf)
+  - [[Code-Keras]](https://github.com/XifengGuo/DEC-keras)
+
+- **ICML 17 -- Bo Yang et al.**
+  - (DCN) Towards K-means-friendly Spaces: Simultaneous Deep Learning and Clustering.   
+  - [[Paper]](https://arxiv.org/abs/1610.04794)
+  - [[Code-Theano]](https://github.com/boyangumn/DCN-New)
+  
+- **IJCAI 17 -- Xifeng Guo et al.**
+  - (IDEC) Improved Deep Embedded Clustering with Local Structure Preservation.
+  - [[Paper]](https://www.ijcai.org/proceedings/2017/0243.pdf)
+  - [[Code-Keras]](https://github.com/XifengGuo/IDEC)
+
+- **ICONIP 17 -- Xifeng Guo et al.**
+  - (DCEC) Deep Clustering with Convolutional Autoencoders.
+  - [[Paper]](https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf)
+  - [[Code-Keras]](https://github.com/XifengGuo/DCEC)
+  
+- **IEEE Access 18 -- Erxue Min et al.**
+  - A Survey of Clustering With Deep Learning: From the Perspective of Network Architecture.
+  - [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8412085&tag=1)
+  
+- **NIPS 16 -- Xi Chen et al.**
+  - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
+  - [[Paper]](https://arxiv.org/abs/1606.03657v1)
 
 - **NIPS 16 -- Xi Chen et al.**
   - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
