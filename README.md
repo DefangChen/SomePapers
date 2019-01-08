@@ -64,7 +64,11 @@
 - **NIPS 16 -- Sebastian Nowozin et al.**
   - f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization.
   - [[Paper]](https://arxiv.org/abs/1606.00709)
-
+  
+- **NIPS 16 -- Xi Chen et al.**
+  - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
+  - [[Paper]](https://arxiv.org/abs/1606.03657v1)
+  
 - **ICLR 18 -- Zhiting Hu et al.**
   - On Unifying Deep Generative Models.
   - [[Paper]](https://arxiv.org/abs/1706.00550)
@@ -95,10 +99,6 @@
   - Semi-crowdsourced Clustering with Deep Generative Models.
   - [[Paper]](https://arxiv.org/abs/1810.11971?context=cs)
   
-- **NIPS 16 -- Xi Chen et al.**
-  - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets.
-  - [[Paper]](https://arxiv.org/abs/1606.03657v1)
-
 ## Variational Inference 
 
 - **JMLR 13 -- Matthew D. Hoffman et al.**
