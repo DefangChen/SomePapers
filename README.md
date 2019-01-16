@@ -27,6 +27,18 @@
   - Deep Generative Models
   - [[Slides & Video]](http://auai.org/uai2017/tutorials.php)
 
+## Model Compression
+
+- **IEEE Signal processing magazine 17 --Yu Cheng et al.**
+  - A Survey of Model Compression and Acceleration for Deep Neural Networks.   
+  - [[Paper]](https://arxiv.org/abs/1710.09282)
+
+- **ICLR 16 Best paper --Song Han et al.**
+  - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.
+  - [[Paper]](https://arxiv.org/pdf/1510.00149v5.pdf)
+
+
+
 ## Deep Generative Model
 
 - **ICLR 14 --Diederik P. Kingma et al.**
