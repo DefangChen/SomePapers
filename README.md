@@ -37,8 +37,18 @@
   - Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding.
   - [[Paper]](https://arxiv.org/pdf/1510.00149v5.pdf)
 
-
-
+- **CVPR 18 --Miguel A. et al.**
+  - "Learning-Compression" Algorithms for Neural Net Pruning.
+  - [[Paper]](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
+  
+- **ARXIV 17 --Miguel A. et al.**
+  - Model compression as constrained optimization, with application to neural nets. Part I: general framework.
+  - [[Paper]](https://arxiv.org/pdf/1707.01209.pdf)
+  
+- **ARXIV 17 --Miguel A. et al.**
+  - Model compression as constrained optimization, with application to neural nets. Part Ⅱ: quantization.
+  - [[Paper]](https://arxiv.org/pdf/1707.04319.pdf)
+  
 ## Deep Generative Model
 
 - **ICLR 14 --Diederik P. Kingma et al.**
