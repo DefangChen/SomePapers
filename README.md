@@ -48,7 +48,47 @@
 - **ARXIV 17 --Miguel A. et al.**
   - Model compression as constrained optimization, with application to neural nets. Part Ⅱ: quantization.
   - [[Paper]](https://arxiv.org/pdf/1707.04319.pdf)
-  
+
+- **NIPS 13 --M. Denil et al.**
+  - Predicting Parameters in Deep Learning.
+  - [[Paper]](https://arxiv.org/pdf/1306.0543.pdf)
+
+- **ICLR 15 --Y. Gong et al.**
+  - Compressing Deep Convolutional Networks using Vector Quantization.
+  - [[Paper]](https://arxiv.org/pdf/1412.6115.pdf)
+
+- **NIPS 15 --A. Novikov et al.**
+  - Tensorizing Neural Networks.
+  - [[Paper]](https://arxiv.org/pdf/1509.06569.pdf)
+
+- **ICLR 17 --K. Ullrich et al.**
+  - Soft Weight-Sharing for Neural Network Compression.
+  - [[Paper]](https://arxiv.org/pdf/1702.04008.pdf)
+
+- **ICLR 17 --C. Zhu et al.**
+  - Trained Ternary Quantization.
+  - [[Paper]](https://arxiv.org/pdf/1612.01064.pdf)
+
+- **ICLR 17 --H. Li et al.**
+  - Pruning Filters for Efficient ConvNets.
+  - [[Paper]](https://arxiv.org/pdf/1608.08710.pdf)
+
+- **NIPS-workshop 14 --G. Hinton et al.**
+  - Distilling the Knowledge in a Neural Network.
+  - [[Paper]](https://arxiv.org/pdf/1503.02531.pdf)
+
+- **ICML- 17 --Y. Wang et al.**
+  - Beyond Filters: Compact Feature Map for Portable Deep Model.
+  - [[Paper]](http://proceedings.mlr.press/v70/wang17m.html)
+
+- **NIPS- 18 --J. Kim et al.**
+  - Paraphrasing Complex Network: Network Compression via Factor Transfer.
+  - [[Paper]](http://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer)
+
+- **ICML- 18 --X. Jin et al.**
+  - WSNet: Compact and Efficient Networks Through Weight Sampling.
+  - [[Paper]](https://arxiv.org/pdf/1711.10067.pdf)
+
 ## Deep Generative Model
 
 - **ICLR 14 --Diederik P. Kingma et al.**
